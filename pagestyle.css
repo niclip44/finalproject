@@ -1,10 +1,14 @@
 body {
  background-color: SteelBlue; 
- 
- font-family: Copperplate, Papyrus, fantasy;
-  
+ font-family: Georgia, serif;  
+
+
 }
+
+
 h1 {
   color: Moccasin;
   text-align: center;
+ 
+ 
 }
